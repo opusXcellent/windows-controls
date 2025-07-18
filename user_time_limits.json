@@ -1,0 +1,14 @@
+{
+  "UserA": {
+    "daily_limit_minutes": 120,
+    "last_login_date": "",
+    "minutes_used_today": 0,
+    "account_disabled": false
+  },
+  "UserB": {
+    "daily_limit_minutes": 90,
+    "last_login_date": "",
+    "minutes_used_today": 0,
+    "account_disabled": false
+  }
+}
